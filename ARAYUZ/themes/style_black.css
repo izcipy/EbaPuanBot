@@ -1,0 +1,188 @@
+* {
+    font-family: Painter;
+}
+
+#centralwidget {
+    border-image: url("icons/bg_black.jpg")
+}
+
+#frame1 {
+    background: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+#pushButton {
+    color: rgb(255, 255, 255);
+    background: rgb(110, 0, 2);
+    border-radius: 7px;
+    font-size: 25px
+}
+
+#pushButton:hover {
+    color: rgb(255, 255, 255);
+    background: rgb(170, 0, 2);
+    border-radius: 7px;
+}
+
+#pushButton1 {
+    color: rgb(255, 255, 255);
+    background: rgb(110, 0, 2);
+    border-radius: 7px;
+    font-size: 17px
+}
+
+#pushButton1:hover {
+    color: rgb(255, 255, 255);
+    background: rgb(170, 0, 2);
+    border-radius: 7px;
+}
+
+#ebalogo {
+    background: rgb(255, 255, 255);
+    border-radius: 50px;
+}
+
+#lineEdit {
+    color: rgb(190, 190, 190);
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid rgb(160, 160, 160);
+    font-size: 25px
+}
+
+#lineEdit:focus {
+    color: rgb(255, 255, 255);
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
+
+#comboBox {
+    font-size: 24px;
+    border: none;
+    border-radius: 2px;
+    min-height: 1.2em;
+    font-size: 23px
+}
+
+#comboBox QAbstractItemView {
+    border-radius: 2px;
+    background-color: rgb(255, 255, 255);
+    selection-background-color: rgb(20, 20, 20);
+}
+
+#comboBox QAbstractItemView:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+#comboBox QAbstractItemView:alternate {
+    background: #19232D;
+}
+
+#comboBox:disabled {
+    background-color: #19232D;
+    color: #787878;
+}
+
+#comboBox:hover {
+    border: 1px solid rgb(0, 0, 0);
+}
+
+#comboBox:focus {
+    border: 1px solid rgb(0, 0, 0);
+}
+
+#comboBox::item:checked {
+    font-weight: bold;
+}
+
+#comboBox::item:selected {
+    border: 0px solid transparent;
+}
+
+#comboBox::drop-down {
+    subcontrol-origin: padding;
+    subcontrol-position: top right;
+    width: 12px;
+    border-left: 1px solid rgb(0, 0, 0);
+}
+
+#comboBox::down-arrow {
+    height: 10px;
+    width: 10px;
+}
+
+QStatusBar {
+    background: rgb(45, 45, 45);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-size: 15px
+}
+
+QMenuBar {
+    background-color: rgb(100, 100, 100);
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+}
+
+QMenuBar::item {
+    background-color: rgb(100, 100, 100);
+    color: rgb(255, 255, 255);
+}
+
+QMenuBar::item::selected {
+    background-color: rgb(60, 60, 60);
+}
+
+QMenu {
+    background-color: rgb(100, 100, 100);
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(80, 80, 80);
+    border-radius: 3px;
+}
+
+QMenu::item::selected {
+    background-color: rgb(60, 60, 60);
+}
+
+QMainWindow {
+    background-color: rgb(0, 0, 0);
+}
+
+#label {
+    color: white;
+    font-size: 35px;
+}
+
+#pushButton2 {
+    color: rgb(255, 255, 255);
+    background: rgb(110, 0, 2);
+    border-radius: 4px;
+    font-size: 25px
+}
+
+#pushButton2:hover {
+    color: rgb(255, 255, 255);
+    background: rgb(170, 0, 2);
+    border-radius: 4px;
+}
+
+#textEdit {
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+#pushButton3 {
+    background: rgb(0, 0, 0);
+    color: rgb(165, 0, 2);
+    border-radius: 4px;
+    font-size: 25px
+}
+
+#pushButton3:hover {
+    color: rgb(255, 255, 255);
+    background: rgb(30, 30, 30);
+    border-radius: 4px;
+}
