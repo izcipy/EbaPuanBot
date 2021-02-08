@@ -203,7 +203,7 @@ class App(QMainWindow):
             QMessageBox.about(
                 self,
                 "deneme",
-                "hakkında"
+                parser("font", "hakkında")
             ) 
 
     def oto_chromedriver_sec(self):
