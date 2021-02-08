@@ -46,7 +46,7 @@ pip install -r requirements.txt
 - Arayüz ekranı geldikten sonra yapacağımız pek birkaç şey kaldı. Okul, sınıf, ders seçme butonlarının üstünde bir `Driver Seçme` butonu var. Eğer o butonda `Driver Seçildi` ve yanında parantez içinde driverın yolu yazıyorsa driver seçilmiş demektir. Eğer yukarıdaki adımları takip ederek botu indirdiyseniz böyle seçilmiş olarak gelir. Eğer seçili değilse [şu](https://chromedriver.chromium.org/downloads "şu") adresten bilgisayarınıza uygun olan en son chromedriver sürümünü indirip `app.py` ile aynı klasöre atın ve uygulamayı tekrar çalıştırın. Driver otomatik olarak seçilecektir. 
 - Eğer bilgisayarınızda başka konumda bulunan bir chromedriver seçmek istiyorsanız driver seç butonuna tıklayıp driver konumunu kendiniz seçin.
 
-- Evet, şimdi sıra puan kasmaya geldi. Puan kasmak için botta yüklü olan dersler(Zaman geçtikçe daha fazlası eklenecek);
+- Evet, şimdi sıra puan kasmaya geldi. Bilgisayar ve internet hızınıza bağlı olarak ortalama `7` dakikada `500` puanı çok rahat kasabilirsiniz. Puan kasmak için botta yüklü olan dersler(Zaman geçtikçe daha fazlası eklenecek);
 + Ortaokul (177 Test / 2655 Puan)
     + 5 . Sınıf
         + İngilizce
