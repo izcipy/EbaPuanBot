@@ -41,7 +41,7 @@ class App_1(QWidget):
         self.pushButton3.setGeometry(QRect(20, 13, 60, 50))
         self.pushButton3.setText("")
         icon = QIcon()
-        icon.addPixmap(QPixmap("../EBA PUAN/icons/back.png"), QIcon.Normal, QIcon.Off)
+        icon.addPixmap(QPixmap("icons/back.png"), QIcon.Normal, QIcon.Off)
         self.pushButton3.setIcon(icon)
         self.pushButton3.setIconSize(QSize(30, 30))
         self.pushButton3.setObjectName("pushButton3")
