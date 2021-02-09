@@ -15,7 +15,7 @@
 ### 1-) Python'u Kurun
 - [Şu](https://www.python.org/downloads  "Şu") adrese girip bilgisayarınıza uygun olan 3.9.1 python sürümünü indirin.
 
-- İndirilen dosyayı açıp bilgisayarınıza kurun. Bu dosyayı kurarken dikkat edeceğiniz şey `Add Python 3.9 To Path` seçeneği çıktığında onu işaretlemek. Daha fazla detay için internette `python kurulumu` diye aratabilirsiniz. Önünüze istemeyeceğiniz kadar sonu çıkacaktır.
+- İndirilen dosyayı açıp bilgisayarınıza kurun. Bu dosyayı kurarken dikkat edeceğiniz şey `Add Python 3.9 To Path` seçeneği çıktığında onu işaretlemek. Daha fazla detay için internette `python kurulumu` diye aratabilirsiniz. Önünüze istemeyeceğiniz kadar sonuç çıkacaktır.
 
 ### 2-) Eba Puan Bot'u İndirin
 - Bundan sonraki adımlara `Python'u başarıyla` kurduğunuzu varsayarak ilerliyoruz.
@@ -72,7 +72,3 @@ pip install -r requirements.txt
 
 
 **Powered By IZCI**
-
-
-
-
