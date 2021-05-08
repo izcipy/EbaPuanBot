@@ -61,14 +61,6 @@ pip install -r requirements.txt
 
 - Bu testlerden istediğinizi seçip `Puan Kas` butonuna basın ve arkanıza yaslanıp botun puan kasmasını izleyin.
 
-# SON
-
-- Tabii ki kusursuz yazılmadı, şu an ki halinden sonra eminim birçok hata çıkacak. Çünkü yazılımın doğası bu. Hiçbir program ilk çıktığında hatasız değildir. Hataları, kullandıkça görürsünüz ve düzeltirsiniz. Bu programda da hata çıkacak. Ben bunları gördükçe yavaş yavaş düzelteceğim.
-
-- Şimdi bu programa gelipte puan kazanmak sizin hiçbir işinize yaramaz gibi şeyler diyenler illaki çıkacaktır. O arkadaşlar sol üstten geri tuşuna basarak çıkabilirler. Boş yapmaya hiç gerek yok. Sanki biz bilmiyoruz puan kasmanın bir işimize yaramayacağını. Kendimi geliştirmek için yazdığım bir programı kodlarıyla beraber paylaştım. İsteyen kullanır, istemeyen kullanmaz. Bu kadar basit. Puan kasmak çok da umrumdaydı.
-
-
 ------------
-
 
 **Powered By IZCI**
