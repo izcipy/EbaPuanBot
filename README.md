@@ -22,7 +22,12 @@
 
 - Proje dosyaların üstünde `code` yazan yeşil bir buton var. Ona bastıktan sonra çıkan `Download ZIP` seçeneğine tıklayıp `ZIP` dosyasını bilgisayarınızda bir konuma indirin.
 
-### 3-) Gerekli Paketleri Yükleyelim
+### 3-) ChromeDriver yükleyelim
+- [Şu](https://chromedriver.chromium.org/downloads "Şu") adrese girip chrome sürümünüzle ve bilgisayarınızla uyumlu olan driver sürümünü indirin.
+
+- İndirdiğiniz driver'ı rardan çıkarıp `app.py` ile aynı klasöre atın. 
+
+### 4-) Gerekli Paketleri Yükleyelim
 - Eba Puan Bot'u indirdiğiniz klasörü açın. Ardından `shift` tusuna basılı tutarak `farenizin sağ tuşuna` basın. Bunu yaptıktan sonra çıkan bölümde `PowerShell penceresini buradan açın` yazan bir seçenek çıkacak. O seçeneğe basıp PowerShell penceresinin açılmasını bekleyin.
 
 - `PowerShell penceresi` açıldıktan sonra paketleri yüklemek için aşağıdaki kodu komut satırına yazıp `entere` basın ve bitmesini bekleyin.
