@@ -1,6 +1,6 @@
 ![](https://images.bursadabugun.com/haber/2020/03/17/1265871-egitim-bilisim-agi-eba-nedir-5e706a4f39689.jpg)
 
-# EBA PUAN BOT'a HOŞGELDİNİZ
+# EBA PUAN BOT'a HOŞ GELDİNİZ
 - EBA PUAN BOT adından da anlaşıldığı gibi eba'da puan kasmanızı sağlar. Bota önceden girilmiş olan, tarama testi cevaplarını bir insan gibi siteye girip işaretler ve bu sayede puan kazanmanızı sağlar.
 
 # Uygulamadan Resimler;
@@ -14,7 +14,7 @@
 
 ### 1-) Python'u Kurun
 - [Şu](https://www.python.org/downloads  "Şu") adrese girip bilgisayarınıza uygun olan 3.9.1 python sürümünü indirin.
-
+- 
 - İndirilen dosyayı açıp bilgisayarınıza kurun. Bu dosyayı kurarken dikkat edeceğiniz şey `Add Python 3.9 To Path` seçeneği çıktığında onu işaretlemek. Daha fazla detay için internette `python kurulumu` diye aratabilirsiniz. Önünüze istemeyeceğiniz kadar sonuç çıkacaktır.
 
 ### 2-) Eba Puan Bot'u İndirin
@@ -30,7 +30,7 @@
 ### 4-) Gerekli Paketleri Yükleyelim
 - Eba Puan Bot'u indirdiğiniz klasörü açın. Ardından `shift` tusuna basılı tutarak `farenizin sağ tuşuna` basın. Bunu yaptıktan sonra çıkan bölümde `PowerShell penceresini buradan açın` yazan bir seçenek çıkacak. O seçeneğe basıp PowerShell penceresinin açılmasını bekleyin.
 
-- `PowerShell penceresi` açıldıktan sonra paketleri yüklemek için aşağıdaki kodu komut satırına yazıp `entere` basın ve bitmesini bekleyin.
+- `PowerShell penceresi` açıldıktan sonra paketleri yüklemek için aşağıdaki kodu komut satırına yazıp `enter`'a basın ve bitmesini bekleyin.
 ```
 pip install -r requirements.txt
 ```
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 - Bu komuttan sonra arayüz ekranının karşınıza gelmiş olması lazım. Gelmediyse ya da bir hata ile karşılaştıysanız adımları baştan uygulayın. 
 
-- Arayüz ekranı geldikten sonra yapacağımız pek birkaç şey kaldı. Okul, sınıf, ders seçme butonlarının üstünde bir `Driver Seçme` butonu var. Eğer o butonda `Driver Seçildi` ve yanında parantez içinde driverın yolu yazıyorsa driver seçilmiş demektir. Eğer yukarıdaki adımları takip ederek botu indirdiyseniz böyle seçilmiş olarak gelir. Eğer seçili değilse [şu](https://chromedriver.chromium.org/downloads "şu") adresten bilgisayarınıza uygun olan en son chromedriver sürümünü indirip `app.py` ile aynı klasöre atın ve uygulamayı tekrar çalıştırın. Driver otomatik olarak seçilecektir. 
+- Arayüz ekranı geldikten sonra yapacağımız birkaç şey kaldı. Okul, sınıf, ders seçme butonlarının üstünde bir `Driver Seçme` butonu var. Eğer o butonda `Driver Seçildi` ve yanında parantez içinde driver'ın yolu yazıyorsa driver seçilmiş demektir. Eğer yukarıdaki adımları takip ederek botu indirdiyseniz böyle seçilmiş olarak gelir. Eğer seçili değilse [şu](https://chromedriver.chromium.org/downloads "Chromedriver indirme linki") adresten bilgisayarınıza uygun olan en son chromedriver sürümünü indirip `app.py` ile aynı klasöre atın ve uygulamayı tekrar çalıştırın. Driver otomatik olarak seçilecektir. 
 - Eğer bilgisayarınızda başka konumda bulunan bir chromedriver seçmek istiyorsanız driver seç butonuna tıklayıp driver konumunu kendiniz seçin.
 
 - Evet, şimdi sıra puan kasmaya geldi. Bilgisayar ve internet hızınıza bağlı olarak ortalama `7` dakikada `500` puanı çok rahat kasabilirsiniz. Puan kasmak için botta yüklü olan dersler(Zaman geçtikçe daha fazlası eklenecek);
